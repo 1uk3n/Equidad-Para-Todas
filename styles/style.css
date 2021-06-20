@@ -1,0 +1,73 @@
+
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+  .title{
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
+  }
+  .header_section{
+    margin: 0px;
+  }
+.profile{
+    margin-left: 100px;
+    margin-top: 100px
+  }
+  
+.logo{
+  margin-top: 15px;
+}
+
+.personal_data{
+  font-family: 'Benne', serif;
+}
+
+.profile_name{
+  font-size: 20px;
+}
+
+.text_Area{
+  color: black;
+}
+
+/* label color */
+.input-field label {
+  color: #000;
+}
+/* label focus color */
+.materialize-textarea {
+  color: #000;
+  border-bottom: #000;
+  box-shadow: #000;
+}
+
+
+#icon_prefix2{
+  
+  border-bottom: 1px solid #000;
+  box-shadow: 0 1px 0 0 #000;
+}
+
+
+#porfavordiosito{
+  color:#000; 
+}
+
+.image_index{
+  margin-top: 7px;
+}
+
+.header_banner{
+  margin-bottom: 0px;
+}
+
+.title_box{
+  margin-top: 15px;
+}
